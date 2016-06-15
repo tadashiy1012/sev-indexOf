@@ -12,4 +12,8 @@ describe('sev-indexOf test', () => {
     const result = sevIndexOf(str, 'moge', 1);
     assert(result === -1);
   });
+  it('test3', () => {
+    const result = sevIndexOf(str, 'fuga', 3);
+    assert(result === -1);
+  });
 });
