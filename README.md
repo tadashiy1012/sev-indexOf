@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tadashiy1012/sev-indexOf.svg?branch=master)](https://travis-ci.org/tadashiy1012/sev-indexOf)
+
 # sev-indexOf
 It returns the index value appears in the n-th
 
